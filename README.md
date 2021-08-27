@@ -4,8 +4,8 @@ Analista e desenvolvedor de sistemas há 15 anos, casado e pai da Malu. Gosto de
 ##
 <div>
   <a href="https://github.com/rafaelcosti">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rafaelcosti&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelcosti&layout=compact&langs_count=7&theme=default"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafaelcosti&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelcosti&layout=compact&langs_count=7&theme=default"/>
   </a>
 </div>
 
