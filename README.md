@@ -1,6 +1,8 @@
 ### Olá sou Rafael Costi, 
 Analista e desenvolvedor de sistemas há 15 anos, casado e pai da Malu. Gosto de automobilismo, tecnologia e Java.
 
+
+
 ##
 <div>
   <a href="https://github.com/rafaelcosti">
@@ -11,7 +13,13 @@ Analista e desenvolvedor de sistemas há 15 anos, casado e pai da Malu. Gosto de
 
 ##
 <div style="display: inline_block">
-  <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicon/tree/master/icons/spring/spring-original.svg">
+
+  <img align="center" alt="Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Spring" height="30" width="40" src=" https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
   
   
 </div>
