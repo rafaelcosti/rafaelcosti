@@ -41,6 +41,9 @@ Analista e desenvolvedor de sistemas há 15 anos, casado e pai da Malu. Gosto de
   </a>
 </div>
 
+##
+<img alingn="center" src="https://profile-counter.glitch.me/rafaelcosti/count.svg" />
+
 👍
 
 
