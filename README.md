@@ -1,5 +1,5 @@
 ### Olá sou Rafael Costi, 
-Analista e desenvolvedor de sistemas há 15 anos, casado e pai da Malu. Gosto de automobilismo, tecnologia e Java.
+Analista e desenvolvedor de sistemas há 15 anos, casado e pai da Malu. Fanático por automobilismo, tecnologia e Java.
 
 
 
